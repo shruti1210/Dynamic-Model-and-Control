@@ -1,6 +1,6 @@
 # Dynamic-Model-and-Control
 
-1.Developed using MATLAB
+1. Developed using MATLAB
 
 2. Developed a dynamic model of a 2-DOF RR manipulator with joint flexibility : theory explained in the "Sop_report.pdf"
 
